@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "설원규 포트폴리오"
 ---
 
 # 👋 설원규 | Data Science & Machine Learning
