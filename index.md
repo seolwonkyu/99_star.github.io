@@ -1,8 +1,3 @@
----
-layout: home
-title: "설원규 포트폴리오"
----
-
 # 👋 설원규 | Data Science & Machine Learning
 
 환경·산업 데이터를 기반으로 한 예측 모델링과  
