@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "설원규 포트폴리오"
 ---
 
